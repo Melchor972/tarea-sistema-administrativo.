@@ -3,6 +3,11 @@
 ## Descripción del Proyecto
 Sistema desarrollado en Java bajo la Programación Orientada a Objetos para gestionar la asignación, precios, estados y notificaciones de los stands de la feria.
 
+## Video Explicativo del Código
+Puedes ver la explicación detallada del programa en el siguiente enlace:
+https://alumnosuady-my.sharepoint.com/:v:/g/personal/a25216423_alumnos_uady_mx/IQAOfkM4a-qCQZnDp2YGi2WKAQipNU-19aNJB1mgs7Msabo?e=YT5KKv
+
+
 ## 1. Requerimientos Funcionales y No Funcionales
 Requerimientos Funcionales Ampliados
 1.	RF-01: Gestión y Registro de Stands
